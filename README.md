@@ -1,4 +1,4 @@
-# CSE 220 MIPs Graphs
+# CSE 220 MIPS Graphs
 
 ## Learning Outcomes
 
